@@ -1,0 +1,15 @@
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\bin\Debug\net8.0\ex7.exe
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\bin\Debug\net8.0\ex7.deps.json
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\bin\Debug\net8.0\ex7.runtimeconfig.json
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\bin\Debug\net8.0\ex7.dll
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\bin\Debug\net8.0\ex7.pdb
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\obj\Debug\net8.0\ex7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\obj\Debug\net8.0\ex7.AssemblyInfoInputs.cache
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\obj\Debug\net8.0\ex7.AssemblyInfo.cs
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\obj\Debug\net8.0\ex7.csproj.CoreCompileInputs.cache
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\obj\Debug\net8.0\ex7.sourcelink.json
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\obj\Debug\net8.0\ex7.dll
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\obj\Debug\net8.0\refint\ex7.dll
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\obj\Debug\net8.0\ex7.pdb
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\obj\Debug\net8.0\ex7.genruntimeconfig.cache
+C:\Users\victor.omangabeira\source\repos\logica_programacao_tarde_ter_qui\ex7\obj\Debug\net8.0\ref\ex7.dll
