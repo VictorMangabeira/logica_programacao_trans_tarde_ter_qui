@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victor.omangabeira\\source\\repos\\logica_programacao_tarde_ter_qui\\ex7\\ex7.csproj",
-      "projectName": "ex7",
-      "projectPath": "C:\\Users\\victor.omangabeira\\source\\repos\\logica_programacao_tarde_ter_qui\\ex7\\ex7.csproj",
+      "projectUniqueName": "C:\\Users\\victor.omangabeira\\source\\repos\\logica_programacao_tarde_ter_qui\\ex7\\ex07.csproj",
+      "projectName": "ex07",
+      "projectPath": "C:\\Users\\victor.omangabeira\\source\\repos\\logica_programacao_tarde_ter_qui\\ex7\\ex07.csproj",
       "packagesPath": "C:\\Users\\victor.omangabeira\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\victor.omangabeira\\source\\repos\\logica_programacao_tarde_ter_qui\\ex7\\obj\\",
       "projectStyle": "PackageReference",
